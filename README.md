@@ -5,7 +5,7 @@
 ### Clone this repo
 
 ```bash
-
+git clone git@github.com:mckernant1/zoe.git
 ```
 
 ### Install conda 
